@@ -7,7 +7,7 @@ ShakhrayA_GUN33
 Группа: GUN33
 
 ### Задания
-- [ ] [Сериализация]()
+- [ ] [Сериализация](https://github.com/Anthrall/ShakhrayA_GUNCU_33/tree/SerializationHomework)
 - [ ] [Корутины]()
 - [ ] [Самостоятельные работы]()
 
