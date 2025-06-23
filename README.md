@@ -6,13 +6,7 @@ ShakhrayA_GUN33
 Анна Шахрай
 Группа: GUN33
 
-### Задания
-- [ ] [Сериализация]()
-- [ ] [Корутины]()
-- [ ] [Самостоятельные работы]()
+### Сериализация
 
+[<- Назад](https://github.com/Anthrall/ShakhrayA_GUNCU_33/tree/main)
 
-## ИТОГОВОЕ ЗАДАНИЕ
-- [ ] [ИТОГОВОЕ]()
-
-[<- Назад](https://github.com/Anthrall/ShakhrayA_GUN30/tree/main)
